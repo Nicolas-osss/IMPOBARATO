@@ -1,0 +1,26 @@
+-poner lupita entre contacto y carro para buscar el producto de tu iteres
+
+
+-los productos que tengan carro hacer que al apretar se vayan directo al carrito (tal vez con animacion) y que si se equivoco que permanezca el agregado para sacarlo despues 
+
+
+-lo de sumarse como vendedor y seguir los pasos para comprar: ESTUDIARLO 
+
+-lo de registrarse y hacer funcional el forms de contact verlo con php
+ 
+
+-footer:
+	-que los iconos redireccionen a las paginas,fc 	a fc, ig a ig, mail a contactanos
+	-informacion de reparto: ESTUDIARLO
+	-terminos y condiciones: ESTUDIARLO
+	-registrarse: ESTUDIARLO
+	-seguir mi orden: ESTUDIARLO
+	-ayuda: ESTUDIARLO
+
+-hacer el singular para cada producto
+
+- en shop en la parte de recomendaciones hacer que los productos se deslicen
+
+-hacer las 3 paginas de shop, cargar aprox 100 productos
+
+-el boton comprar funciona y pide datos de tarjeta 
